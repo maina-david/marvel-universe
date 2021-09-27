@@ -9,4 +9,4 @@ To start this app,
 
 > run npm start
 
-# A complete working demo can be found here https://waihura.github.io/admin/characters
+# A complete working demo can be found here https://waihura.github.io/marvel-universe
