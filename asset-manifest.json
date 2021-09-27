@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/marvel-universe/static/css/main.03abe972.chunk.css",
-    "main.js": "/marvel-universe/static/js/main.5e113755.chunk.js",
-    "main.js.map": "/marvel-universe/static/js/main.5e113755.chunk.js.map",
+    "main.js": "/marvel-universe/static/js/main.cf9274c0.chunk.js",
+    "main.js.map": "/marvel-universe/static/js/main.cf9274c0.chunk.js.map",
     "runtime-main.js": "/marvel-universe/static/js/runtime-main.ebcbf397.js",
     "runtime-main.js.map": "/marvel-universe/static/js/runtime-main.ebcbf397.js.map",
     "static/css/2.8b633890.chunk.css": "/marvel-universe/static/css/2.8b633890.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.8b633890.chunk.css.map": "/marvel-universe/static/css/2.8b633890.chunk.css.map",
     "static/css/main.03abe972.chunk.css.map": "/marvel-universe/static/css/main.03abe972.chunk.css.map",
     "static/js/2.bdef7944.chunk.js.LICENSE.txt": "/marvel-universe/static/js/2.bdef7944.chunk.js.LICENSE.txt",
-    "static/js/main.5e113755.chunk.js.LICENSE.txt": "/marvel-universe/static/js/main.5e113755.chunk.js.LICENSE.txt",
+    "static/js/main.cf9274c0.chunk.js.LICENSE.txt": "/marvel-universe/static/js/main.cf9274c0.chunk.js.LICENSE.txt",
     "static/media/anime3.png": "/marvel-universe/static/media/anime3.4438e506.png",
     "static/media/all.min.css": "/marvel-universe/static/media/fa-solid-900.46fdbd2d.woff",
     "static/media/marvel-logo.58b8e3c4.png": "/marvel-universe/static/media/marvel-logo.58b8e3c4.png",
@@ -24,6 +24,6 @@
     "static/css/2.8b633890.chunk.css",
     "static/js/2.bdef7944.chunk.js",
     "static/css/main.03abe972.chunk.css",
-    "static/js/main.5e113755.chunk.js"
+    "static/js/main.cf9274c0.chunk.js"
   ]
 }
