@@ -8,3 +8,5 @@ To start this app,
 > update the public key and hash from your account in https://developer.marvel.com/
 
 > run npm start
+
+# A complete working demo can be found here https://waihura.github.io/admin/characters
